@@ -1,3 +1,3 @@
 # B200
 
-Hi this is my first time using Github
+Hi this is my first time using Github!
